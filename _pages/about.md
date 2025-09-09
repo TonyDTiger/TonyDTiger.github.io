@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Check out my other pages to see what I'm up to and what I've created!
+Check out my other pages to see what I've been up to!
 
 <!-- A data-driven personal website
 ======
