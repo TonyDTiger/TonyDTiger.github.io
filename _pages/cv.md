@@ -13,9 +13,7 @@ redirect_from:
 
 Education
 ======
-M.S. in Aerospace Engineering, University of Colorado Boulder, 2019
-
-B.S. in Aerospace Engineering, University of Colorado Boulder, 2019
+B.S./M.S. in Aerospace Engineering, University of Colorado Boulder, 2019
 
 ---
 
