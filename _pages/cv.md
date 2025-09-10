@@ -12,31 +12,36 @@ redirect_from:
 Education
 ======
 M.S. in Aerospace Engineering, University of Colorado Boulder, 2019
+
 B.S. in Aerospace Engineering, University of Colorado Boulder, 2019
 
 Skills
 ======
 Flight Controls & GN&C: 
 * 6-DOF simulations, linear Kalman filters, linear control theory, PID controllers, attitude dynamics
+
 Testing & Validation: 
 * SIL/HIL integration testing, unit testing, Monte Carlo performance analysis, requirements verification & validation
+
 Modeling & Simulation: 
 * MATLAB/Simulink, rigid body and multi-body dynamics, actuator modeling
+
 Mission Operations: 
 * Anomaly resolution, telemetry analysis, autonomous fault detection/response
+
 Software & Tools: 
 * Python, C++, STK, ODTK, Git, Apache Subversion
 
 Work experience
 ======
-GN&C Engineer || Boeing, Everett, WA || September 2023 - Present 
+GN&C Engineer | Boeing, Everett, WA | September 2023 - Present 
 * Perform safety and fault tolerance analyses for flight control algorithms on the 777X fixed wing aircraft
 * Developed MATLAB tools for pointing jitter frequency domain analysis
 * Defined and documented software interface commands and telemetry for autonomy software and satellite subsystems
 * Led fault tree and branch termination analyses for a satellite’s GN&C subsystem and identified the autonomous fault detection and response measures needed to achieve mission objectives
 * Supported internal and customer design reviews for
 
-GN&C Engineer || Ball Aerospace, Boulder, CO || July 2019 – August 2023
+GN&C Engineer | Ball Aerospace, Boulder, CO | July 2019 – August 2023
 * Designed and unit tested PID-based heater control laws in MATLAB to meet tight thermal performance requirements
 * Developed and validated a 2-axis gimbal multi-body model using Newton-Euler equations to verify antenna pointing performance in MATLAB/Simulink
 * Conducted Monte Carlo analyses of 6-DOF spacecraft simulations to verify pointing performance and safing requirements
