@@ -1,6 +1,6 @@
 ---
 title: "Orbit Mechanics"
-excerpt: "This project focuses on demonstrating coplanar phasing rendezvous maneuvers that a chaser satellite can perform to rendezvous with a target satellite. 1<br/><img src='/images/orbit_phasing_example.png'>"
+excerpt: "This project focuses on demonstrating coplanar phasing rendezvous maneuvers that a chaser satellite can perform to rendezvous with a target satellite. <br/><img src='/images/orbit_phasing_example.png'>"
 collection: portfolio
 ---
 

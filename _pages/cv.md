@@ -15,22 +15,32 @@ M.S. in Aerospace Engineering, University of Colorado Boulder, 2019
 
 B.S. in Aerospace Engineering, University of Colorado Boulder, 2019
 
+---
+
 Skills
 ======
 Flight Controls & GN&C: 
-* 6-DOF simulations, linear Kalman filters, linear control theory, PID controllers, attitude dynamics
+* Linear Kalman filters, linear controllers and control theory
+* Aircraft dynamics
 
 Testing & Validation: 
-* SIL/HIL integration testing, unit testing, Monte Carlo performance analysis, requirements verification & validation
+* SIL/HIL integration testing, unit testing
+* Monte Carlo performance analysis
+* Requirements verification & validation
 
 Modeling & Simulation: 
-* MATLAB/Simulink, rigid body and multi-body dynamics, actuator modeling
+* 6-DOF simulator development 
+* Rigid body and multi-body dynamics, actuator modeling
 
-Mission Operations: 
-* Anomaly resolution, telemetry analysis, autonomous fault detection/response
+Fault Management:
+* Fault tree analysis
+* Autonomous fault detection/response
+* Telemetry trending, anomaly resolution
 
 Software & Tools: 
-* Python, C++, STK, ODTK, Git, Apache Subversion
+* MATLAB/Simulink, Python, C++, 
+* Systems Tool Kit, Orbit Determination Tool Kit
+* Git, Apache Subversion
 
 Work experience
 ======
@@ -64,15 +74,17 @@ Course Assistant | Applied Mathematics & Ann and H.J. Smead Aerospace Engineerin
 Projects
 ======
 Personal GN&C Projects | August 2024 - Present
-* Check out the Porfolio page!
+* [Check out my Porfolio page!](https://tonydtiger.github.io//portfolio/)
 
 CubeSat Design (SolarCube) | January 2018– May 2018
 University of Colorado Boulder, Boulder, CO 
 * Created a closed-loop 6-DOF simulator from scratch to evaluate actuator sizing, PD control response, and momentum management.
+* [Cool satellite ground tracking simulation that I put together!](https://drive.google.com/file/d/1UGWogkpv6JH0efh2DyCAycW9bmp2JZB5/view)
 
 Autonomous Capture of a 2-DOF CubeSat | August 2016 – May 2017
 University of Colorado Boulder, Boulder, CO
 * Designed and tested MATLAB algorithms for autonomous target capture; presented work in PDR/CDR reviews and published in AIAA.
+* [My team's CDR Presentation](https://www.google.com/search?q=CASCADE+cubesat+capture+AIAA&oq=CASCADE+cubesat+capture+AIAA&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIKCAEQABiABBiiBDIHCAIQABjvBTIKCAMQABiABBiiBDIKCAQQABiABBiiBDIKCAUQABiABBiiBNIBCDU1ODRqMGo0qAIAsAIB&sourceid=chrome&ie=UTF-8)
 
 Publications
 ======
