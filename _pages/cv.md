@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+---
+
 Education
 ======
 M.S. in Aerospace Engineering, University of Colorado Boulder, 2019
@@ -19,8 +21,9 @@ B.S. in Aerospace Engineering, University of Colorado Boulder, 2019
 
 Skills
 ======
-Flight Controls & GN&C: 
-* Linear Kalman filters, linear controllers and control theory
+Flight Controls: 
+* Linear controllers and control theory
+* Linear Kalman filters
 * Aircraft dynamics
 
 Testing & Validation: 
@@ -30,7 +33,8 @@ Testing & Validation:
 
 Modeling & Simulation: 
 * 6-DOF simulator development 
-* Rigid body and multi-body dynamics, actuator modeling
+* Rigid body and multi-body dynamics
+* Orbit Mechanics
 
 Fault Management:
 * Fault tree analysis
@@ -41,6 +45,8 @@ Software & Tools:
 * MATLAB/Simulink, Python, C++, 
 * Systems Tool Kit, Orbit Determination Tool Kit
 * Git, Apache Subversion
+
+---
 
 Work experience
 ======
@@ -70,6 +76,7 @@ Systems Integration & Test Intern | Ball Aerospace, Boulder, CO | June 2018 – 
 Course Assistant | Applied Mathematics & Ann and H.J. Smead Aerospace Engineering Departments, Boulder, CO | July 2017 – May 2019
 * Held office hours to assist students, compile homework/project solutions, grade course material and help assess grades. Courses: Orbital Mechanics/Attitude Dynamics and Control, Statistical Methods
 
+---
 
 Projects
 ======
@@ -84,7 +91,9 @@ University of Colorado Boulder, Boulder, CO
 Autonomous Capture of a 2-DOF CubeSat | August 2016 – May 2017
 University of Colorado Boulder, Boulder, CO
 * Designed and tested MATLAB algorithms for autonomous target capture; presented work in PDR/CDR reviews and published in AIAA.
-* [My team's CDR Presentation](https://www.google.com/search?q=CASCADE+cubesat+capture+AIAA&oq=CASCADE+cubesat+capture+AIAA&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIKCAEQABiABBiiBDIHCAIQABjvBTIKCAMQABiABBiiBDIKCAQQABiABBiiBDIKCAUQABiABBiiBNIBCDU1ODRqMGo0qAIAsAIB&sourceid=chrome&ie=UTF-8)
+* [My team's final presentation](https://www.colorado.edu/aerospace/sites/default/files/attached-files/cascade_sfr.pdf)
+
+---
 
 Publications
 ======
