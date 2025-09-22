@@ -24,25 +24,31 @@ Flight Controls:
 * Linear Kalman filters
 * Aircraft dynamics
 
-Testing & Validation: 
-* SIL/HIL integration testing, unit testing
-* Monte Carlo performance analysis
-* Requirements verification & validation
-
 Modeling & Simulation: 
 * 6-DOF simulator development 
 * Rigid body and multi-body dynamics
 * Orbit Mechanics
 
+Flight Operations: 
+* On-orbit commissioning and anomaly resolution
+* Telmetry trending
+* Procedure development
+
+Verification & Validation Testing: 
+* SIL/HIL integration testing
+* Unit testing
+* Monte Carlo analysis
+
 Fault Management:
 * Fault tree analysis
 * Autonomous fault detection/response
-* Telemetry trending, anomaly resolution
+* Test case development
 
 Software & Tools: 
 * MATLAB/Simulink, Python, C++, 
 * Systems Tool Kit, Orbit Determination Tool Kit
 * Git, Apache Subversion
+* Microsoft Office
 
 ---
 
@@ -50,26 +56,25 @@ Work experience
 ======
 GN&C Engineer | Boeing, Everett, WA | September 2023 - Present 
 * Perform safety and fault tolerance analyses for flight control algorithms on the 777X fixed wing aircraft
-* Developed MATLAB tools for pointing jitter frequency domain analysis
-* Defined and documented software interface commands and telemetry for autonomy software and satellite subsystems
+* Improved MATLAB tools for pointing jitter frequency domain analysis
+* Defined and documented autonomy software interface commands and telemetry
 * Led fault tree and branch termination analyses for a satellite’s GN&C subsystem and identified the autonomous fault detection and response measures needed to achieve mission objectives
-* Supported internal and customer design reviews for
 
 GN&C Engineer | Ball Aerospace, Boulder, CO | July 2019 – August 2023
-* Designed and unit tested PID-based heater control laws in MATLAB to meet tight thermal performance requirements
+* Designed and tuned control algorithms for spacecraft bus thermal control systems to meet tight temperature range requirements
 * Developed and validated a 2-axis gimbal multi-body model using Newton-Euler equations to verify antenna pointing performance in MATLAB/Simulink
-* Conducted Monte Carlo analyses of 6-DOF spacecraft simulations to verify pointing performance and safing requirements
-* Supported software-in-loop (SIL)/hardware-in-loop (HIL) tests, executing functional and open-loop control law testing on hardware in a cleanroom environment
+* Conducted Monte Carlo 6-DOF simulations verifying pointing and safing requirements
+* Validated GN&C hardware and subsystem functionality using hardware-in-loop and software-in-loop testing, resolving anomalies in real time
 * Tuned coarse sun sensor and gimbal motor simulation models using vendor and in-house test data for improved simulation fidelity
-* Established a product baseline of GN&C algorithm unit tests for the embedded flight software team
+* Established a product baseline of GN&C algorithm unit tests for the flight software team
 
 Technical Aide | Ball Aerospace, Boulder, CO | August 2018 – July 2019
 * Developed MATLAB/STK scripts to generate de-orbit burn sequences and scenario generation
 * Executed high-fidelity ADCS simulations for spacecraft attitude control performance evaluation
 
 Systems Integration & Test Intern | Ball Aerospace, Boulder, CO | June 2018 – August 2018
-* Analyzed the relationship between the observatory's orientation and thermal heater power loads to explore the possibility of reducing heater power loads and radiator size by adjusting the mission design
-* Developed a MATLAB script to autonomously create STK simulations from telemetry flight data
+* Analyzed thermal and orientation dependencies to optimize mission design
+* Automated STK simulations from flight telemetry
 
 Course Assistant | Applied Mathematics & Ann and H.J. Smead Aerospace Engineering Departments, Boulder, CO | July 2017 – May 2019
 * Held office hours to assist students, compile homework/project solutions, grade course material and help assess grades. Courses: Orbital Mechanics/Attitude Dynamics and Control, Statistical Methods
@@ -83,7 +88,7 @@ Personal GN&C Projects | August 2024 - Present
 
 CubeSat Design (SolarCube) | January 2018– May 2018
 University of Colorado Boulder, Boulder, CO 
-* Created a closed-loop 6-DOF simulator from scratch to evaluate actuator sizing, PD control response, and momentum management.
+* Created a closed-loop 6-DOF simulator from scratch to evaluate actuator sizing, PD control response, momentum management, and available time to transit.
 * [Cool satellite ground tracking simulation that I put together!](https://drive.google.com/file/d/1UGWogkpv6JH0efh2DyCAycW9bmp2JZB5/view)
 
 Autonomous Capture of a 2-DOF CubeSat | August 2016 – May 2017
