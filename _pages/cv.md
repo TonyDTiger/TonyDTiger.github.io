@@ -19,30 +19,29 @@ B.S./M.S. in Aerospace Engineering, University of Colorado Boulder, 2019
 
 Skills
 ======
-Flight Controls: 
-* Linear controllers and control theory
-* Linear Kalman filters
-* Aircraft dynamics
-
-Modeling & Simulation: 
-* 6-DOF simulator development 
-* Rigid body and multi-body dynamics
-* Orbit Mechanics
-
-Flight Operations: 
-* On-orbit commissioning and anomaly resolution
-* Telmetry trending
-* Procedure development
+Fault Management:
+* Fault Tree Analysis (FTA)
+* Autonomous fault detection/response
+* Test case development
 
 Verification & Validation Testing: 
 * SIL/HIL integration testing
 * Unit testing
 * Monte Carlo analysis
 
-Fault Management:
-* Fault tree analysis
-* Autonomous fault detection/response
-* Test case development
+Flight Operations: 
+* On-orbit commissioning and anomaly resolution
+* Telmetry trending
+* Procedure development
+
+Navigation and Controls: 
+* Linear controllers and control theory
+* Linear Kalman filters
+
+Modeling & Simulation: 
+* 6-DOF simulator development 
+* Rigid body and multi-body dynamics
+* Flight dynamics, orbital mechanics
 
 Software & Tools: 
 * MATLAB/Simulink, Python, C++, 
@@ -55,29 +54,36 @@ Software & Tools:
 Work experience
 ======
 GN&C Engineer | Boeing, Everett, WA | September 2023 - Present 
-* Perform safety and fault tolerance analyses for flight control algorithms on the 777X fixed wing aircraft
-* Improved MATLAB tools for pointing jitter frequency domain analysis
-* Defined and documented autonomy software interface commands and telemetry
-* Led fault tree and branch termination analyses for a satellite’s GN&C subsystem and identified the autonomous fault detection and response measures needed to achieve mission objectives
-
+* Perform FTA to verify probabilistic safety requirements for flight control algorithms on the Boeing 
+777X, contributing numerical evidence toward system safety certification.
+* Improved the fault tree failure database by integrating electrical wiring zone failure rates derived from 
+wiring diagrams and component-level reliability data. 
+* Define safety requirements following decomposition and traceability processes.
+* Led fault tree and branch termination analyses for a satellite’s GN&C subsystem and identified the autonomous fault detection and response measures needed to achieve mission objectives.
+* Defined and documented autonomy software interface commands and telemetry.
+* Improved MATLAB tools for pointing jitter frequency domain analysis.
+  
 GN&C Engineer | Ball Aerospace, Boulder, CO | July 2019 – August 2023
-* Designed and tuned control algorithms for spacecraft bus thermal control systems to meet tight temperature range requirements
-* Developed and validated a 2-axis gimbal multi-body model using Newton-Euler equations to verify antenna pointing performance in MATLAB/Simulink
-* Conducted Monte Carlo 6-DOF simulations verifying pointing and safing requirements
-* Validated GN&C hardware and subsystem functionality using hardware-in-loop and software-in-loop testing, resolving anomalies in real time
-* Tuned coarse sun sensor and gimbal motor simulation models using vendor and in-house test data for improved simulation fidelity
-* Established a product baseline of GN&C algorithm unit tests for the flight software team
+* Investigated and resolved GPS receiver and star tracker anomalies on-orbit, coordinating with operations team, supplier, and customer and tracking root cause analysis with Jira Service Management.
+* Developed tools to process test and on-orbit telemetry data, reducing turnaround time for anomaly investigations and calibrations.
+* Supported GN&C subsystem SIL and HIL tests to validate GN&C hardware and subsystem functionality and resolved anomalies real-time in a cleanroom environment to maintain schedule.
+* Conducted Monte Carlo analyses of 6-DOF spacecraft simulations with fault injection to quantify the probabilistic reliability of GN&C performance and verify pointing performance and safing requirements.
+* Led cross-functional meetings to refine and verify IXPE’s boom deployment sequence and its contingency responses.
+* Established a product baseline of GN&C algorithm unit tests for the flight software team.
+* Designed and tuned control algorithms for spacecraft bus thermal control systems to meet tight temperature range requirements.
+* Developed and validated a 2-axis gimbal multi-body model using Newton-Euler equations to verify antenna pointing performance in MATLAB/Simulink.
+* Tuned coarse sun sensor and gimbal motor simulation models using vendor and in-house test data for improved simulation fidelity.
 
 Technical Aide | Ball Aerospace, Boulder, CO | August 2018 – July 2019
-* Developed MATLAB/STK scripts to generate de-orbit burn sequences and scenario generation
-* Executed high-fidelity ADCS simulations for spacecraft attitude control performance evaluation
+* Developed MATLAB/STK scripts to generate de-orbit burn sequences and scenario generation.
+* Executed high-fidelity ADCS simulations for spacecraft attitude control performance evaluation.
 
 Systems Integration & Test Intern | Ball Aerospace, Boulder, CO | June 2018 – August 2018
-* Analyzed thermal and orientation dependencies to optimize mission design
-* Automated STK simulations from flight telemetry
+* Analyzed thermal and orientation dependencies to optimize mission design.
+* Automated STK simulations from flight telemetry.
 
 Course Assistant | Applied Mathematics & Ann and H.J. Smead Aerospace Engineering Departments, Boulder, CO | July 2017 – May 2019
-* Held office hours to assist students, compile homework/project solutions, grade course material and help assess grades. Courses: Orbital Mechanics/Attitude Dynamics and Control, Statistical Methods
+* Held office hours to assist students, compile homework/project solutions, grade course material and help assess grades. Courses: Orbital Mechanics/Attitude Dynamics and Control, Statistical Methods.
 
 ---
 
