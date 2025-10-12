@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Resume"
+permalink: /resume/
 author_profile: true
 redirect_from:
   - /resume
@@ -34,7 +34,7 @@ Flight Operations:
 * Telmetry trending
 * Procedure development
 
-Navigation and Controls: 
+State Estimation and Controls: 
 * Linear controllers and control theory
 * Linear Kalman filters
 
