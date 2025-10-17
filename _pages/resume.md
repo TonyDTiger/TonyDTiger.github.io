@@ -19,21 +19,6 @@ B.S./M.S. in Aerospace Engineering, University of Colorado Boulder, 2019
 
 Skills
 ======
-Fault Management:
-* Fault Tree Analysis (FTA)
-* Autonomous fault detection/response
-* Test case development
-
-Verification & Validation Testing: 
-* SIL/HIL integration testing
-* Unit testing
-* Monte Carlo analysis
-
-Flight Operations: 
-* On-orbit commissioning and anomaly resolution
-* Telmetry trending
-* Procedure development
-
 State Estimation and Controls: 
 * Linear controllers and control theory
 * Linear Kalman filters
@@ -49,6 +34,21 @@ Software & Tools:
 * Git, Apache Subversion
 * Microsoft Office
 
+Verification & Validation Testing: 
+* Unit testing
+* SIL/HIL integration testing
+* Monte Carlo analysis
+
+Flight Operations: 
+* On-orbit commissioning and anomaly resolution
+* Telmetry trending
+* Procedure development
+
+Fault Management:
+* Fault Tree Analysis (FTA)
+* Autonomous fault detection/response
+* Test case development
+
 ---
 
 Work experience
@@ -58,20 +58,20 @@ GN&C Engineer | Boeing, Everett, WA | September 2023 - Present
 777X, contributing numerical evidence toward system safety certification.
 * Improved the fault tree failure database by integrating electrical wiring zone failure rates derived from 
 wiring diagrams and component-level reliability data. 
-* Define safety requirements following decomposition and traceability processes.
+* Define new system-level safety requirements following decomposition and traceability processes.
 * Led fault tree and branch termination analyses for a satellite’s GN&C subsystem and identified the autonomous fault detection and response measures needed to achieve mission objectives.
 * Defined and documented autonomy software interface commands and telemetry.
 * Improved MATLAB tools for pointing jitter frequency domain analysis.
   
 GN&C Engineer | Ball Aerospace, Boulder, CO | July 2019 – August 2023
-* Investigated and resolved GPS receiver and star tracker anomalies on-orbit, coordinating with operations team, supplier, and customer and tracking root cause analysis with Jira Service Management.
+* Investigated and resolved GPS and star tracker anomalies on-orbit by trending telemetry and coordinating with operations team, supplier, and customer to maintain nominal spacecraft performance.
 * Developed tools to process test and on-orbit telemetry data, reducing turnaround time for anomaly investigations and calibrations.
-* Supported GN&C subsystem SIL and HIL tests to validate GN&C hardware and subsystem functionality and resolved anomalies real-time in a cleanroom environment to maintain schedule.
-* Conducted Monte Carlo analyses of 6-DOF spacecraft simulations with fault injection to quantify the probabilistic reliability of GN&C performance and verify pointing performance and safing requirements.
-* Led cross-functional meetings to refine and verify IXPE’s boom deployment sequence and its contingency responses.
+* Validated GN&C hardware and subsystem functionality through hardware-in-loop and software-in-loop tests in a cleanroom environment, resolving anomalies in real time and leading to mission readiness.
+* Conducted Monte Carlo analyses in a 6-DOF nonlinear simulation environment to verify pointing control and safing requirements for two spacecraft.
+* ed cross-functional meetings to analyze and validate IXPE’s boom deployment sequence and contingency plans, contributing to a successful in-space deployment.
 * Established a product baseline of GN&C algorithm unit tests for the flight software team.
-* Designed and tuned control algorithms for spacecraft bus thermal control systems to meet tight temperature range requirements.
-* Developed and validated a 2-axis gimbal multi-body model using Newton-Euler equations to verify antenna pointing performance in MATLAB/Simulink.
+* Developed and verified PID-based thermal control algorithms with MATLAB nonlinear simulations, ensuring spacecraft components remained within strict operational temperature limits.
+* Developed and validated a 2-axis gimbal multi-body model in MATLAB/Simulink to ensure accurate antenna pointing performance within a 6-DOF nonlinear simulation environment.
 * Tuned coarse sun sensor and gimbal motor simulation models using vendor and in-house test data for improved simulation fidelity.
 
 Technical Aide | Ball Aerospace, Boulder, CO | August 2018 – July 2019
