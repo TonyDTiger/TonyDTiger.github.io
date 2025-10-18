@@ -70,7 +70,7 @@ GN&C Engineer | Ball Aerospace, Boulder, CO | July 2019 – August 2023
 * Established a product baseline of GN&C algorithm unit tests with the flight software team.
 * Developed and verified PID-based thermal control algorithms with MATLAB nonlinear simulations, ensuring spacecraft components remained within strict operational temperature limits.
 * Developed and validated a 2-axis gimbal multi-body model in MATLAB/Simulink to ensure accurate antenna pointing performance within a 6-DOF nonlinear simulation environment.
-* Tuned coarse sun sensor and gimbal motor simulation models using vendor and in-house test data for improved simulation fidelity.
+* Tuned coarse sun sensor and gimbal motor simulation models using vendor and in-house test data to improve the accuracy of a 6-DOF nonlinear simulation environment.
 
 Technical Aide | Ball Aerospace, Boulder, CO | August 2018 – July 2019
 * Developed MATLAB/STK scripts to generate de-orbit burn sequences and scenario generation.
