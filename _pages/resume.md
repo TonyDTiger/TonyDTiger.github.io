@@ -54,22 +54,20 @@ Fault Management:
 Work experience
 ======
 GN&C Engineer | Boeing, Everett, WA | September 2023 - Present 
-* Perform FTA to verify probabilistic safety requirements for flight control algorithms on the Boeing 
-777X, contributing numerical evidence toward system safety certification.
-* Improved the fault tree failure database by integrating electrical wiring zone failure rates derived from 
-wiring diagrams and component-level reliability data. 
+* Perform safety and fault tolerance analyses for flight control algorithms on the 777X fixed wing aircraft, ensuring certification compliance and flight controls robustness.
+* Improved the fault tree failure database by integrating electrical wiring zone failure rates derived from wiring diagrams and component-level reliability data. 
 * Define new system-level safety requirements following decomposition and traceability processes.
-* Led fault tree and branch termination analyses for a satellite’s GN&C subsystem and identified the autonomous fault detection and response measures needed to achieve mission objectives.
+* Led fault tree and branch termination analyses for a spacecraft’s GN&C subsystem to identify autonomous fault detection and response logic.
 * Defined and documented autonomy software interface commands and telemetry.
 * Improved MATLAB tools for pointing jitter frequency domain analysis.
   
 GN&C Engineer | Ball Aerospace, Boulder, CO | July 2019 – August 2023
-* Investigated and resolved GPS and star tracker anomalies on-orbit by trending telemetry and coordinating with operations team, supplier, and customer to maintain nominal spacecraft performance.
-* Developed tools to process test and on-orbit telemetry data, reducing turnaround time for anomaly investigations and calibrations.
+* Investigated and resolved GPS and star tracker anomalies on-orbit by trending telemetry and coordinating with operations team, supplier, and customer.
+* Developed tools to process ground test and on-orbit telemetry data, reducing turnaround time for anomaly investigations and calibrations.
 * Validated GN&C hardware and subsystem functionality through hardware-in-loop and software-in-loop tests in a cleanroom environment, resolving anomalies in real time and leading to mission readiness.
 * Conducted Monte Carlo analyses in a 6-DOF nonlinear simulation environment to verify pointing control and safing requirements for two spacecraft.
-* ed cross-functional meetings to analyze and validate IXPE’s boom deployment sequence and contingency plans, contributing to a successful in-space deployment.
-* Established a product baseline of GN&C algorithm unit tests for the flight software team.
+* Led cross-functional meetings to analyze and validate IXPE’s boom deployment sequence and contingency plans, contributing to a successful in-space deployment.
+* Established a product baseline of GN&C algorithm unit tests with the flight software team.
 * Developed and verified PID-based thermal control algorithms with MATLAB nonlinear simulations, ensuring spacecraft components remained within strict operational temperature limits.
 * Developed and validated a 2-axis gimbal multi-body model in MATLAB/Simulink to ensure accurate antenna pointing performance within a 6-DOF nonlinear simulation environment.
 * Tuned coarse sun sensor and gimbal motor simulation models using vendor and in-house test data for improved simulation fidelity.
@@ -79,8 +77,8 @@ Technical Aide | Ball Aerospace, Boulder, CO | August 2018 – July 2019
 * Executed high-fidelity ADCS simulations for spacecraft attitude control performance evaluation.
 
 Systems Integration & Test Intern | Ball Aerospace, Boulder, CO | June 2018 – August 2018
-* Analyzed thermal and orientation dependencies to optimize mission design.
-* Automated STK simulations from flight telemetry.
+* nalyzed the relationship between the observatory's orientation and thermal heater power loads to explore the possibility of reducing heater power loads and radiator size by adjusting the mission design.
+* Automated telemetry-to-Systems Tool Kit animation generation, enabling visual flight data review.
 
 Course Assistant | Applied Mathematics & Ann and H.J. Smead Aerospace Engineering Departments, Boulder, CO | July 2017 – May 2019
 * Held office hours to assist students, compile homework/project solutions, grade course material and help assess grades. Courses: Orbital Mechanics/Attitude Dynamics and Control, Statistical Methods.
@@ -94,7 +92,7 @@ Personal GN&C Projects | August 2024 - Present
 
 CubeSat Design (SolarCube) | January 2018– May 2018
 University of Colorado Boulder, Boulder, CO 
-* Created a closed-loop 6-DOF simulator from scratch to evaluate actuator sizing, PD control response, momentum management, and available time to transit.
+* Created a closed-loop 6-DOF simulator from scratch to evaluate actuator sizing, PD control response, momentum management, and available time to transit for a rigid body satellite under atmospheric, graviational, and solar radiation disturbance torques.
 * [Cool satellite ground tracking simulation that I put together!](https://drive.google.com/file/d/1UGWogkpv6JH0efh2DyCAycW9bmp2JZB5/view)
 
 Autonomous Capture of a 2-DOF CubeSat | August 2016 – May 2017
