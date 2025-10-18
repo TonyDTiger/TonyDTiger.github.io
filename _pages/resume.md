@@ -77,7 +77,7 @@ Technical Aide | Ball Aerospace, Boulder, CO | August 2018 – July 2019
 * Executed high-fidelity ADCS simulations for spacecraft attitude control performance evaluation.
 
 Systems Integration & Test Intern | Ball Aerospace, Boulder, CO | June 2018 – August 2018
-* nalyzed the relationship between the observatory's orientation and thermal heater power loads to explore the possibility of reducing heater power loads and radiator size by adjusting the mission design.
+* Analyzed the relationship between the observatory's orientation and thermal heater power loads to explore the possibility of reducing heater power loads and radiator size by adjusting the mission design.
 * Automated telemetry-to-Systems Tool Kit animation generation, enabling visual flight data review.
 
 Course Assistant | Applied Mathematics & Ann and H.J. Smead Aerospace Engineering Departments, Boulder, CO | July 2017 – May 2019
